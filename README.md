@@ -1,4 +1,4 @@
-<img src="assets/banner.svg?v=2" alt="Cauã Moreira — Software Developer · Full Stack · BH, Brazil" width="100%" />
+<img src="assets/banner.svg?v=3" alt="Cauã Moreira — Software Developer · Full Stack · BH, Brazil" width="100%" />
 
 ## Hi, I'm Cauã
 
