@@ -52,6 +52,7 @@ Portal de notícias da faculdade, com busca, favoritos e gerenciamento de conte�
 
 ## Certificações e cursos
 
+- **AWS Training & Certification:** AWS Cloud Practitioner Essentials (curso)
 - **Microsoft Learn:** Foundational C# e API Web com controladores do ASP.NET Core
 - **Harvard CS50:** Introduction to Databases with SQL
 - **Kaggle:** Python, Pandas e Intro to Machine Learning
