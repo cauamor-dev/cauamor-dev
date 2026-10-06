@@ -20,7 +20,7 @@ Desenvolvedor em início de carreira, com atuação **Full Stack na Arco Tecnolo
 Gosto de transformar ideias em aplicações úteis e entender como cada parte funciona, da interface ao banco de dados.
 
 - 💼 **No trabalho:** Angular · TypeScript · PostgreSQL · Maker
-- 🧪 **Nos projetos:** JavaScript · React · Node.js · Express · HTML · CSS
+- 🧪 **Nos projetos:** JavaScript · React · Node.js · Express · Python · Flask · HTML · CSS
 - 🔭 **Aprofundando meus estudos:** C# / .NET · SQL · desenvolvimento de APIs
 - 🤖 Uso IA como copiloto (Claude Code, ChatGPT/Codex, Cursor), sempre revisando o que ela gera
 - 🏆 1º lugar no TIAW com o ON Focus Blog
@@ -53,12 +53,16 @@ Gosto de transformar ideias em aplicações úteis e entender como cada parte fu
 
 ## 🚀 Projetos selecionados
 
-**[ShotFinder](https://github.com/cauamor-dev/ShotFinder)**
-Busca de filmes e séries por título ou palavra-chave, com disponibilidade em streaming, elenco e lista pessoal de favoritos. Atualizado recentemente com interface responsiva, API em Node.js e testes automatizados.
+**[Prazo](https://github.com/cauamor-dev/prazo)**  
+Controle de alimentos por validade, com painel dos itens que vencem em até três dias, filtros combináveis, histórico de consumo e descarte, e exportação CSV. Interface responsiva e testes automatizados.  
+`Python` · `Flask` · `SQLite` · `Jinja` · `unittest`
+
+**[ShotFinder](https://github.com/cauamor-dev/ShotFinder)**  
+Busca de filmes e séries por título ou palavra-chave, com disponibilidade em streaming, elenco e lista pessoal de favoritos. Atualizado recentemente com interface responsiva, API em Node.js e testes automatizados.  
 `React` · `Node.js` · `Express` · `TMDb` · `Watchmode`
 
-**[PUC News](https://github.com/cauamor-dev/Puc-News)**
-Portal acadêmico de notícias com busca, favoritos e gerenciamento de conteúdo usando uma API simulada.
+**[PUC News](https://github.com/cauamor-dev/Puc-News)**  
+Portal acadêmico de notícias com busca, favoritos e gerenciamento de conteúdo usando uma API simulada.  
 `JavaScript` · `Bootstrap` · `Chart.js` · `JSON Server`
 
 <img src="./assets/divider.svg" width="100%"/>
