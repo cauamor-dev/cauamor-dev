@@ -88,7 +88,7 @@
 </g>
 <g><animateMotion dur="14s" repeatCount="indefinite" path="M 640 70 C 760 20, 1000 20, 1120 90 C 1000 60, 760 60, 640 70 Z"/>
 <polygon points="0,0 -14,-4 -9,0 -14,4" fill="#e9d5ff"/><circle cx="-15" cy="0" r="2" fill="#f0abfc"/></g>
-<text x="60" y="130" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="22" letter-spacing="6" fill="#c4b5fd">OLÁ, TRIPULANTE · EU SOU</text>
+<text x="60" y="130" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="22" letter-spacing="6" fill="#c4b5fd">OLÁ, EU SOU</text>
 <text x="58" y="190" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="60" font-weight="700" fill="url(#title)">Cauã Moreira</text>
 <text x="60" y="235" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="24" fill="#ddd6fe">Desenvolvedor Full Stack  ·  C# · .NET · Angular · React</text>
 <rect x="60" y="250" width="0" height="3" rx="1.5" fill="#a855f7"><animate attributeName="width" values="0;260;260" dur="3s" fill="freeze"/></rect>
