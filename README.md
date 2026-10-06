@@ -20,7 +20,7 @@ Desenvolvedor em início de carreira, com atuação **Full Stack na Arco Tecnolo
 Gosto de transformar ideias em aplicações úteis e entender como cada parte funciona, da interface ao banco de dados.
 
 - 💼 **No trabalho:** Angular · TypeScript · PostgreSQL · Maker
-- 🧪 **Nos projetos:** JavaScript · React · Node.js · Express · Python · Flask · HTML · CSS
+- 🧪 **Nos projetos:** JavaScript · React · Node.js · Express · Python · Flask · C# · ASP.NET Core · Unity · HTML · CSS
 - 🔭 **Aprofundando meus estudos:** C# / .NET · SQL · desenvolvimento de APIs
 - 🤖 Uso IA como copiloto (Claude Code, ChatGPT/Codex, Cursor), sempre revisando o que ela gera
 - 🏆 1º lugar no TIAW com o ON Focus Blog
@@ -52,6 +52,14 @@ Gosto de transformar ideias em aplicações úteis e entender como cada parte fu
 <img src="./assets/divider.svg" width="100%"/>
 
 ## 🚀 Projetos selecionados
+
+**🎮 Ecos da Última Aurora** · *em desenvolvimento*  
+Jogo autoral que estou construindo com C# e Unity, com sistemas de gameplay, HUD e testes automáticos. Repositório privado por enquanto.  
+`C#` · `Unity` · `Python`
+
+**[ContosoPizza API](https://github.com/cauamor-dev/contoso-pizza-api)**  
+API REST de estudo em C# e ASP.NET Core (.NET 10), baseada em módulo do Microsoft Learn. CRUD de pizzas com controller e service, códigos HTTP corretos e 14 verificações HTTP com evidências.  
+`C#` · `ASP.NET Core` · `.NET 10` · `REST`
 
 **[Prazo](https://github.com/cauamor-dev/prazo)**  
 Controle de alimentos por validade, com painel dos itens que vencem em até três dias, filtros combináveis, histórico de consumo e descarte, e exportação CSV. Interface responsiva e testes automatizados.  
@@ -94,7 +102,7 @@ Estou em **BH, Minas Gerais**. Gosto de jogos, animes e ficção científica, es
 <details>
 <summary><b>Read in English</b></summary>
 
-Early-career **full-stack developer at Arco Tecnologia** and Information Systems student at PUC Minas. I build interfaces and features for business management systems with Angular, TypeScript, PostgreSQL and Maker (Softwell). Currently deepening my knowledge of C# / .NET, SQL and API development. Based in Belo Horizonte, Brazil. Sci-fi fan (Star Wars, Interstellar).
+Early-career **full-stack developer at Arco Tecnologia** and Information Systems student at PUC Minas. I build interfaces and features for business management systems with Angular, TypeScript, PostgreSQL and Maker (Softwell). Currently deepening my knowledge of C# / .NET, SQL and API development. Building an original game with C# and Unity on the side. Based in Belo Horizonte, Brazil. Sci-fi fan (Star Wars, Interstellar).
 
 </details>
 
