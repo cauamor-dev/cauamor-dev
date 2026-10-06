@@ -2,6 +2,7 @@
 
 <img src="./assets/banner.svg?v=4" alt="Cauã Moreira Martins — Desenvolvedor Full Stack" width="100%"/>
 
+<a href="https://cauamor-dev.github.io/"><img src="https://img.shields.io/badge/%F0%9F%9A%80%20PORTF%C3%93LIO-cauamor--dev.github.io-c084fc?style=for-the-badge&labelColor=4c1d95"/></a>
 <a href="https://www.linkedin.com/in/cau%C3%A3-moreira-57a2aa353"><img src="https://img.shields.io/badge/LinkedIn-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:caua3595@gmail.com"><img src="https://img.shields.io/badge/E--mail-5b21b6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/BH%2C%20MG-4c1d95?style=for-the-badge&logo=googlemaps&logoColor=white"/>
@@ -52,6 +53,8 @@ Gosto de transformar ideias em aplicações úteis e entender como cada parte fu
 <img src="./assets/divider.svg" width="100%"/>
 
 ## 🚀 Projetos selecionados
+
+🌐 **Veja o portfólio completo, com detalhes de cada projeto: [cauamor-dev.github.io](https://cauamor-dev.github.io/)**
 
 **🎮 Ecos da Última Aurora** · *em desenvolvimento*  
 Jogo autoral que estou construindo com C# e Unity, com sistemas de gameplay, HUD e testes automáticos. Repositório privado por enquanto.  
