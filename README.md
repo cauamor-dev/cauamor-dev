@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg?v=4" alt="Cauã Moreira Martins, Desenvolvedor Full Stack" width="100%"/>
+<img src="./assets/banner.svg?v=5" alt="Cauã Moreira Martins, Desenvolvedor Full Stack" width="100%"/>
 
 <a href="https://cauamor-dev.github.io/">Portfólio</a> · <a href="https://www.linkedin.com/in/cau%C3%A3-moreira-57a2aa353">LinkedIn</a> · <a href="mailto:caua3595@gmail.com">E-mail</a>
 
@@ -18,7 +18,7 @@ Fora do código, gosto de jogos, animes e ficção científica (Star Wars e Inte
 
 - **No trabalho:** Angular, TypeScript, PostgreSQL, Maker (Softwell)
 - **Nos projetos:** JavaScript, React, Node.js, Express, Python, Flask, C#, ASP.NET Core, Unity, HTML e CSS
-- **Estudando agora:** C# e .NET, SQL e desenvolvimento de APIs
+- **Estudando agora:** C# e .NET (ASP.NET Core e Entity Framework Core), SQL e desenvolvimento de APIs
 - Uso IA (Claude Code, ChatGPT, Cursor) como ajuda e reviso tudo o que ela gera
 - 1º lugar no TIAW da PUC com o ON Focus Blog
 
@@ -52,17 +52,18 @@ Portal de notícias da faculdade, com busca, favoritos e gerenciamento de conte�
 
 ## Certificações e cursos
 
-- **AWS Training & Certification:** AWS Cloud Practitioner Essentials (curso)
-- **Microsoft Learn:** Foundational C# e API Web com controladores do ASP.NET Core
+- **Microsoft Learn:** Foundational C#, API Web com controladores do ASP.NET Core e API mínima com Entity Framework Core
 - **Harvard CS50:** Introduction to Databases with SQL
+- **AWS Skill Builder:** AWS Cloud Practitioner Essentials (curso)
+- **Cisco Networking Academy:** Introdução à Cibersegurança
 - **Kaggle:** Python, Pandas e Intro to Machine Learning
 - **Bootcamp Santander + DIO** e cursos de IA aplicada ao desenvolvimento
 
 <details>
 <summary>Read in English</summary>
 
-I'm Cauã, a 20-year-old junior full-stack developer at Arco Tecnologia, studying Information Systems at PUC Minas. At work I use Angular, TypeScript and PostgreSQL. On my own I'm learning C# and .NET and building a small game with Unity. Based in Betim, Brazil.
+I'm Cauã, a 20-year-old junior full-stack developer at Arco Tecnologia, studying Information Systems at PUC Minas. At work I use Angular, TypeScript and PostgreSQL. On my own I'm going deeper into C# and .NET (ASP.NET Core, Entity Framework Core) and building a game with Unity. Based in Betim, Brazil.
 
 </details>
 
-<img src="./assets/footer.svg" width="100%"/>
+<img src="./assets/divider.svg" width="100%"/>
