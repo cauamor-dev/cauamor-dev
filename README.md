@@ -2,7 +2,7 @@
 
 <img src="./assets/banner.svg?v=5" alt="Cauã Moreira Martins, Desenvolvedor Full Stack" width="100%"/>
 
-<a href="https://cauamor-dev.github.io/">Portfólio</a> · <a href="https://www.linkedin.com/in/cau%C3%A3-moreira-57a2aa353">LinkedIn</a> · <a href="mailto:caua3595@gmail.com">E-mail</a>
+<a href="https://cauamor-dev.github.io/">Portfólio</a> · <a href="https://www.linkedin.com/in/cauamoreira-dev/">LinkedIn</a> · <a href="mailto:caua3595@gmail.com">E-mail</a>
 
 </div>
 
