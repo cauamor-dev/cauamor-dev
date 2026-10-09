@@ -8,23 +8,46 @@
 
 <img src="./assets/divider.svg" width="100%"/>
 
-## Sobre mim
+## 👨‍💻 Sobre mim
 
 Oi, eu sou o Cauã, tenho 20 anos e moro em Betim, Minas Gerais. Sou desenvolvedor full stack júnior na **Arco Tecnologia**, onde trabalho com Angular, TypeScript e PostgreSQL, e estou no 4º período de **Sistemas de Informação na PUC Minas**.
 
-Antes de programar, passei por marketing, vendas e suporte técnico. Agora estou me aprofundando em C# e .NET.
+Antes de programar, passei por marketing, vendas e suporte técnico. Agora estou me aprofundando em C# e .NET, e é nessa área que quero crescer.
 
 Fora do código, gosto de jogos, animes e ficção científica (Star Wars e Interestelar são os favoritos). É daí que vem o visual deste perfil.
 
-- **No trabalho:** Angular, TypeScript, PostgreSQL, Maker (Softwell)
-- **Nos projetos:** JavaScript, React, Node.js, Express, Python, Flask, C#, ASP.NET Core, Unity, HTML e CSS
-- **Estudando agora:** C# e .NET (ASP.NET Core e Entity Framework Core), SQL e desenvolvimento de APIs
-- Uso IA (Claude Code, ChatGPT, Cursor) como ajuda e reviso tudo o que ela gera
-- 1º lugar no TIAW da PUC com o ON Focus Blog
+- 🏢 **No trabalho:** Angular, TypeScript, PostgreSQL, Maker (Softwell)
+- 🧪 **Nos projetos:** React, Node.js, Python, Flask, C#, ASP.NET Core e Unity
+- 🏆 1º lugar no TIAW da PUC com o ON Focus Blog
+- 🤖 Uso IA (Claude Code, ChatGPT, Cursor) como ajuda e reviso tudo o que ela gera
+
+Estou construindo minha base em C# e .NET e aberto a conversar sobre oportunidades na área.
 
 <img src="./assets/divider.svg" width="100%"/>
 
-## Projetos
+## 🛠️ Tecnologias
+
+**Front-end**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,bootstrap&perline=7" alt="HTML, CSS, JavaScript, TypeScript, Angular, React e Bootstrap"/>
+</p>
+
+**Back-end e dados**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,nodejs,express,python,flask,postgres,mysql,sqlite&perline=10" alt="C#, .NET, Java, Node.js, Express, Python, Flask, PostgreSQL, MySQL e SQLite"/>
+</p>
+
+**Ferramentas**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,unity&perline=4" alt="Git, GitHub, VS Code e Unity"/>
+</p>
+
+<img src="./assets/divider.svg" width="100%"/>
+
+## 🚀 Projetos
 
 O portfólio tem mais detalhes de cada um: [cauamor-dev.github.io](https://cauamor-dev.github.io/)
 
@@ -50,7 +73,15 @@ Portal de notícias da faculdade, com busca, favoritos e gerenciamento de conte�
 
 <img src="./assets/divider.svg" width="100%"/>
 
-## Certificações e cursos
+## 📚 Estudando agora
+
+- C# e .NET: ASP.NET Core e Entity Framework Core
+- SQL e modelagem de bancos de dados
+- Desenvolvimento de APIs e testes automatizados
+
+<img src="./assets/divider.svg" width="100%"/>
+
+## 🎓 Certificações e cursos
 
 - **Microsoft Learn:** Foundational C#, API Web com controladores do ASP.NET Core e API mínima com Entity Framework Core
 - **Harvard CS50:** Introduction to Databases with SQL
