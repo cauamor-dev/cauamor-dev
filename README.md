@@ -17,7 +17,7 @@ Antes de programar, passei por marketing, vendas e suporte técnico. Agora estou
 Fora do código, gosto de jogos, animes e ficção científica (Star Wars e Interestelar são os favoritos). É daí que vem o visual deste perfil.
 
 - 🏢 **No trabalho:** Angular, TypeScript, PostgreSQL, Maker (Softwell)
-- 🧪 **Nos projetos:** React, Node.js, Python, Flask, C#, ASP.NET Core e Unity
+- 🧪 **Nos projetos:** Next.js, React, Node.js, Supabase, Python, Flask, C#, ASP.NET Core e Unity
 - 🏆 1º lugar no TIAW da PUC com o ON Focus Blog
 - 🤖 Uso IA (Claude Code, ChatGPT, Cursor) como ajuda e reviso tudo o que ela gera
 
@@ -30,19 +30,19 @@ Estou construindo minha base em C# e .NET e aberto a conversar sobre oportunidad
 **Front-end**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,bootstrap&perline=7" alt="HTML, CSS, JavaScript, TypeScript, Angular, React e Bootstrap"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,nextjs,bootstrap&perline=8" alt="HTML, CSS, JavaScript, TypeScript, Angular, React, Next.js e Bootstrap"/>
 </p>
 
 **Back-end e dados**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,nodejs,express,python,flask,postgres,mysql,sqlite&perline=10" alt="C#, .NET, Java, Node.js, Express, Python, Flask, PostgreSQL, MySQL e SQLite"/>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,nodejs,express,python,flask,postgres,supabase,mysql,sqlite&perline=11" alt="C#, .NET, Java, Node.js, Express, Python, Flask, PostgreSQL, Supabase, MySQL e SQLite"/>
 </p>
 
 **Ferramentas**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,unity&perline=4" alt="Git, GitHub, VS Code e Unity"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,unity&perline=5" alt="Git, GitHub, VS Code, Vercel e Unity"/>
 </p>
 
 <img src="./assets/divider.svg" width="100%"/>
@@ -50,6 +50,10 @@ Estou construindo minha base em C# e .NET e aberto a conversar sobre oportunidad
 ## 🚀 Projetos
 
 O portfólio tem mais detalhes de cada um: [cauamor-dev.github.io](https://cauamor-dev.github.io/)
+
+**[3C OS](https://github.com/cauamor-dev/3COS)** ⭐ projeto principal
+Central pessoal que junta memória, agenda, tarefas e notícias, com o Claude e o ChatGPT trabalhando sobre o mesmo contexto e uma assistente própria, a Chloe, que entende pedidos em português. Servidor MCP próprio, núcleo único de regras para MCP, API REST, Telegram e painel, Postgres com RLS e busca em português, lembretes com pg_cron e mais de 100 testes automatizados.
+`Next.js` · `React` · `TypeScript` · `Supabase` · `MCP`
 
 **Ecos da Última Aurora** (em desenvolvimento)
 Jogo que estou criando em C# e Unity, com sistemas de gameplay, HUD e testes automáticos. O repositório ainda é privado.
@@ -93,7 +97,7 @@ Portal de notícias da faculdade, com busca, favoritos e gerenciamento de conte�
 <details>
 <summary>Read in English</summary>
 
-I'm Cauã, a 20-year-old junior full-stack developer at Arco Tecnologia, studying Information Systems at PUC Minas. At work I use Angular, TypeScript and PostgreSQL. On my own I'm going deeper into C# and .NET (ASP.NET Core, Entity Framework Core) and building a game with Unity. Based in Betim, Brazil.
+I'm Cauã, a 20-year-old junior full-stack developer at Arco Tecnologia, studying Information Systems at PUC Minas. At work I use Angular, TypeScript and PostgreSQL. On my own I'm building 3C OS, a personal hub where Claude and ChatGPT share the same memory (Next.js, Supabase, MCP), going deeper into C# and .NET (ASP.NET Core, Entity Framework Core) and building a game with Unity. Based in Betim, Brazil.
 
 </details>
 
